@@ -2,7 +2,7 @@
 - 👀 I’m interested in java backend development
 - 🌱 I’m currently learning Spring Boot and Testing
 - 📦 My interesting repositories: 
-  - [BooksWorld](https://github.com/VladimirKryat/BooksWorld)
+  - [BooksWorld](https://github.com/VladimirKryat/BooksWorld) - web site for literature catalog  
   - [Games](https://github.com/VladimirKryat/Games) - arcade games on JavaRush engine
 - 📖 Education:
   - Kuban State University : baccalaureate "Mathematical support and administration of information systems"
