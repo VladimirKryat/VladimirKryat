@@ -2,13 +2,14 @@
 - 👀 I’m interested in java backend development
 - 🌱 I’m currently learning Spring Boot and Testing
 - 📦 My interesting repositories: 
+  - [BooksWorld](https://github.com/VladimirKryat/BooksWorld)
   - [Games](https://github.com/VladimirKryat/Games) - arcade games on JavaRush engine
 - 📖 Education:
   - Kuban State University : baccalaureate "Mathematical support and administration of information systems"
   - Also, I'm fine to take different courses:
     - My profile on [Stepik](https://stepik.org/users/351559778?preview=true)
     - I have reached level 32 on [JavaRush](https://javarush.ru)
-    - Learn on Android Basics by Google course
+    - Learned Android Basics by Google course
     - ...
-- 💞️ I’m looking to job of java junior
+- 🔍 I’m looking to job of java junior
 - 📫 My mail: vladimirkryat@gmail.com
